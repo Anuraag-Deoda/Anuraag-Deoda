@@ -7,7 +7,7 @@
 ###
 - 🌱 I’m currently learning **figma and Nextjs**
 
-- 👨‍💻 All of my projects are available at [whosanuraag.vercel.app](whosanuraag.vercel.app)
+- 👨‍💻 My portfolio is available at [whosanuraag.vercel.app](whosanuraag.vercel.app)
 
 - 💬 Ask me about **react figma python**
 
