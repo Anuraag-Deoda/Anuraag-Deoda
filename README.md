@@ -111,3 +111,7 @@
 ###
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Anuraag-Deooda&label=Profile%20Views&color=4&pretty=true)](https://visitcount.itsvg.in)
