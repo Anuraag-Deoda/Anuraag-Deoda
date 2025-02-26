@@ -5,13 +5,13 @@
 -------------------------------------------------
 
 ###
-- 🌱 I’m currently learning **figma and Nextjs**
+- 🌱 I’m currently learning **Ai Technologies**
 
 - 👨‍💻 My portfolio is available at [whosanuraag.vercel.app](whosanuraag.vercel.app)
 
-- 💬 Ask me about **react figma python**
+- 💬 Ask me about **react python**
 
-- 📫 How to reach me **anuraagdeoda@gmail.com**
+- 📫 How to reach me **anuraagdeoda810@gmail.com**
 
 - 📄 Know about my experiences [https://smallpdf.com/file#s=2619d5a6-b903-4e27-8582-98b81bd86f0f](https://smallpdf.com/file#s=2619d5a6-b903-4e27-8582-98b81bd86f0f)
 
