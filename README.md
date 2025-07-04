@@ -33,51 +33,100 @@
 
 ---
 
-### ⚒️ Skills & Technologies
+### 🧠 My Skills & Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/><br/>Python
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/><br/>Flask
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/><br/>Django
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/><br/>React
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/><br/>Next.js
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/><br/>Node.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/><br/>Docker
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="AWS"/><br/>AWS
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/><br/>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/><br/>MySQL
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/><br/>Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/><br/>Linux
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always+learning...;Always+shipping...;Always+evolving...&font=Fira+Code&center=true&width=440&height=45&pause=1000" alt="typing-2" />
+</p>
 
+---
+
+#### 🧩 Core Languages
+
+| Language | Description |
+|----------|-------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | My go-to for backend, scripting, automation & AI |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Core language for all things frontend & logic |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | Safer JavaScript for scalable frontend projects |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | The skeleton of all web pages |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Beautiful UIs need great styling |
+
+---
+
+#### ⚙️ Frameworks & Libraries
+
+| Stack | Purpose |
+|-------|---------|
+| ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | My lightweight backend powerhouse |
+| ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) | Batteries-included web framework |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | My primary frontend framework |
+| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | SSR and API routes made easy |
+| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | Backend + CLI scripting |
+| ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | Utility-first styling for modern UIs |
+| ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | Super fast build tool I love in React projects |
+
+---
+
+#### 🧠 AI & Machine Learning
+
+| Tools & APIs | Use |
+|--------------|-----|
+| ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | LLMs, Agents, Prompt Engineering |
+| ![LangChain](https://img.shields.io/badge/-LangChain-black?style=for-the-badge&logoColor=white) | Agentic AI with custom chains |
+| ![Whisper](https://img.shields.io/badge/-Whisper-000?style=for-the-badge&logo=openai&logoColor=white) | Audio transcription system |
+| ![Pinecone](https://img.shields.io/badge/-Pinecone-20B2AA?style=for-the-badge&logo=pinecone&logoColor=white) | Vector search for semantic AI |
+| ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black) | Transformers & embeddings |
+
+---
+
+#### 🛠️ DevOps & Infrastructure
+
+| Tool | Description |
+|------|-------------|
+| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | Containerize everything |
+| ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | EC2, RDS, S3, Lambda usage |
+| ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) | Web server + reverse proxy |
+| ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) | CI/CD pipelines |
+| ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Terminal-first workflow 🖥️ |
+
+---
+
+#### 🧱 Databases & ORM
+
+| DB | Usage |
+|----|------|
+| ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | NoSQL backend |
+| ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | Relational SQL queries |
+| ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | Advanced SQL, JSONB support |
+| ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-DA4939?style=for-the-badge&logo=python&logoColor=white) | Python ORM of choice |
+
+---
+
+#### 📦 Package Managers & Build Tools
+
+| Tool | Usage |
+|------|-------|
+| ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) | Node package management |
+| ![yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) | Frontend builds |
+| ![pip](https://img.shields.io/badge/-pip-3776AB?style=for-the-badge&logo=python&logoColor=white) | Python package installer |
+| ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | API testing & debugging |
+
+---
+
+#### 💻 Tools I Live In
+
+| Tool | Description |
+|------|-------------|
+| ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) | My editor of choice |
+| ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | UI/UX design |
+| ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white) | Docs & project planning |
+| ![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white) | My research assistant |
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Still+exploring...;Still+growing...;Still+shipping...;Still+learning...;Still+coding+%F0%9F%94%A5&font=Fira+Code&center=true&width=440&height=45&pause=1000" alt="typing" />
+</p>
 ---
 
 ### 🚀 My Projects
