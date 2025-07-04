@@ -2,36 +2,38 @@
 <h3 align="center">🚀 Full Stack Developer | AI Explorer | Backend Whisperer</h3>
 
 <p align="center">
-  <em>Crafting code, scaling backend systems, and building intelligent tools with a curious mind and a cup of chai ☕</em>
+  <em>Crafting intelligent systems, scaling backends, and building dev tools with passion, precision, and just enough caffeine ☕</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer+%F0%9F%92%BB;AI+Experimenter+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🧑‍💻 Currently leading dev efforts at **MITR Media and Learning**
-- 🧠 Diving deep into **Agentic AI, LLMs, and Generative Intelligence**
-- ⚡ Passionate about **backends, AI agents, scalable systems**, and turning abstract ideas into reality
-- 💼 Check out my work → [whosanuraag.vercel.app](https://whosanuraag.vercel.app)
-- 📫 Reach out: **anuraagdeoda810@gmail.com**
-- 📄 Here's my [Resume](https://smallpdf.com/file#s=2619d5a6-b903-4e27-8582-98b81bd86f0f)
+- 🔭 Currently building cool things as **Software Development Lead @ MITR Media & Learning**
+- 🌱 Upskilling in **Agentic AI, Generative AI, LangChain & LLM Architectures**
+- 💼 Portfolio: [whosanuraag.vercel.app](https://whosanuraag.vercel.app)
+- 💬 Ask me about **React, Flask, Python, Docker, Node.js, AI, and system design**
+- 📫 Reach me at **anuraagdeoda810@gmail.com**
+- 📄 My [Resume](https://smallpdf.com/file#s=2619d5a6-b903-4e27-8582-98b81bd86f0f)
 
 ---
 
-### 🏆 Highlights & Wins
+### 🏆 Certifications & Highlights
 
-- 🏅 **IBM Certified Full Stack Software Developer**
-- 🥇 **Gold Badge in Problem Solving** @ HackerRank
-- 🤖 Built:
-  - A **ChatGPT-powered Character Bot**
-  - A **StackOverflow Clone with AI Assistant**
-  - A custom **Chess Engine using Stockfish** logic
+- 🧠 **IBM Certified Full Stack Software Developer** – Coursera
+- 🥇 **Gold Badge in Problem Solving** – HackerRank
+- 🤖 Built:  
+  - AI Chatbot with OpenAI Agent Chaining  
+  - StackOverflow Clone with GPT Integration  
+  - Chess Engine using Stockfish Algorithm
 
 ---
 
-### 🛠️ My Toolbox
-
-### ⚡ Skills & Technologies
+### ⚒️ Skills & Technologies
 
 <table align="center">
   <tr>
@@ -78,59 +80,68 @@
 
 ---
 
-### 🌐 Projects That I’m Proud Of
+### 🚀 My Projects
 
-- 💬 **AI-Powered Character Chatbot** (Flask + React + OpenAI)
-- 🧠 **StackOverflow AI Clone** (GPT + Node.js + MongoDB)
-- ♟️ **Custom Chess Engine** using Stockfish (Python)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always+building...;Always+learning...;Always+shipping+%F0%9F%9A%80&font=Fira+Code&center=true&width=440&height=45&pause=1000" alt="typing-2" />
+</p>
+
+#### ⭐ Featured
+
+| 🔧 Project | 📝 Description |
+|-----------|----------------|
+| **[Finance Manager](https://github.com/Anuraag-Deoda/Finance-Manager)** | Full stack finance tracker using React, Flask, Tailwind. |
+| **[AI Ad Generator](https://github.com/Anuraag-Deoda/ai-ad-generator)** | Converts product URLs into AI-generated video ads. |
+| **[Custom Trained Chatbot](https://github.com/Anuraag-Deoda/custom-trained-chatbot)** | Train your own chatbot on custom documents. |
+| **[URL Shortener](https://github.com/Anuraag-Deoda/url-shortener)** | Django-powered shortlink platform with AI summaries. |
+| **[Subversion GUI](https://github.com/Anuraag-Deoda/Subversion-control-gui)** | SVN version control manager with GUI and conflict resolver. |
+| **[Audio Transcription Tool](https://github.com/Anuraag-Deoda/Audio-transcription-Tool)** | Compress, transcribe & clean audio with Whisper + Pydub. |
+
+#### 🎮 Fun & Side Builds
+
+- 🧠 [LeetCode Solutions](https://github.com/Anuraag-Deoda/LeetCode-Solutions) – JS/C++/Python DSA Vault  
+- ♟️ [Python Chess Engine](https://github.com/Anuraag-Deoda/Chess-Project-using-Python)  
+- 🎴 [Expanding Cards UI](https://github.com/Anuraag-Deoda/Expanding-Cards)  
+- 🧪 [Netflix UI Clone](https://github.com/Anuraag-Deoda/Netflix) – TS + Tailwind  
+- 💬 [Interactive Portfolio](https://github.com/Anuraag-Deoda/Interactive-Portfolio)
 
 ---
 
-### 📊 My GitHub Universe
+### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anuraag-Deoda&show_icons=true&theme=radical" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Anuraag-Deoda&theme=radical&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuraag-Deoda&layout=compact&theme=radical" height="160"/>
-</div>
-
----
-
-### 🚀 Interests
-
-- 🔍 Scalable Backend Architectures
-- 🤖 AI/ML + Generative Agents
-- ☁️ Cloud & DevOps
-- 📚 Building Self-Learning Systems
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuraag-Deoda&show_icons=true&theme=radical" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Anuraag-Deoda&theme=radical&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuraag-Deoda&layout=compact&theme=radical" height="150" />
+</p>
 
 ---
 
 ### 🤝 Let's Connect
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/anuraag-deoda-2b9b62192/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anuraag-deoda-2b9b62192/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:anuraagdeoda810@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Mail Me-D14836?logo=gmail&style=for-the-badge"/>
+  <a href="mailto:anuraagdeoda810@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.hackerrank.com/anuraagdeoda810" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Anuraag-2EC866?logo=hackerrank&style=for-the-badge"/>
+  <a href="https://www.hackerrank.com/anuraagdeoda810">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank" />
   </a>
-  <a href="https://www.instagram.com/anuraagdeoda08/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&style=for-the-badge"/>
+  <a href="https://www.instagram.com/anuraagdeoda08/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
   </a>
-</div>
+</p>
 
 ---
 
-### ✍️ Quote I Live By
+### 💬 Quote I Live By
 
-> “First, solve the problem. Then, write the code.”  
-> — John Johnson
+> “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Anuraag-Deoda&label=Profile%20Views&color=6&icon=6&pretty=true" alt="visitors" />
+  <img src="https://visitcount.itsvg.in/api?id=Anuraag-Deoda&label=Profile%20Views&color=4&pretty=true" />
 </p>
